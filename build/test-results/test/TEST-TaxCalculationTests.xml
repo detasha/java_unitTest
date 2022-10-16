@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TaxCalculationTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-10-16T18:19:33" hostname="WIN-QB3GO13RQGK" time="0.037">
+  <properties/>
+  <testcase name="calculatedProgressiveTaxHamcrest()" classname="TaxCalculationTests" time="0.016"/>
+  <testcase name="calculatedIncomeTaxHamcrest()" classname="TaxCalculationTests" time="0.001"/>
+  <testcase name="calculatedVatTaxHamcrest()" classname="TaxCalculationTests" time="0.0"/>
+  <testcase name="calculatedIncomeTax()" classname="TaxCalculationTests" time="0.004"/>
+  <testcase name="someBillCalculation()" classname="TaxCalculationTests" time="0.004"/>
+  <testcase name="someBillCalculationHamcrest_contains()" classname="TaxCalculationTests" time="0.003"/>
+  <testcase name="billCalculationHamcrest_notNull()" classname="TaxCalculationTests" time="0.002"/>
+  <testcase name="billCalculationHamcrest_equals()" classname="TaxCalculationTests" time="0.001"/>
+  <testcase name="billCalculation()" classname="TaxCalculationTests" time="0.0"/>
+  <testcase name="calculatedVatTax()" classname="TaxCalculationTests" time="0.0"/>
+  <testcase name="someBillCalculationHamcrest_notEmpty()" classname="TaxCalculationTests" time="0.002"/>
+  <testcase name="calculatedProgressiveTax()" classname="TaxCalculationTests" time="0.0"/>
+  <system-out><![CDATA[Pay amount 6500,00
+Pay amount 9000,00
+Pay amount 16500,00
+Pay amount 6500,00
+Pay amount 9000,00
+Pay amount 16500,00
+Pay amount 6500,00
+Pay amount 6500,00
+Pay amount 6500,00
+Pay amount 6500,00
+Pay amount 9000,00
+Pay amount 16500,00
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
